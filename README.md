@@ -1,15 +1,14 @@
 ## CopyCat-Master
-The repository contains the source code and configuration files for a comprehensive mobile robot control system. The system is designed to provide efficient control and navigation functionalities for mobile robots, facilitating tasks such as path planning, speed management, and anomaly detection.
+The repository hosts source code and configuration files for a mobile robot control system. It's tailored for robust control and navigation, empowering tasks like path planning, speed regulation, and detection of  anomalies in routes.
 
-* TCP/IP Based Communication
+* TCP/IP Communication
 
-* Encoder System / Calibration Scripts
+* Encoder Calibration
 
-* IMU System / Calibration Scripts
+* IMU Calibration
 
-* Motor Driver Scripts
+* Motor Driver Control
 
-* Odometry Based Position Change Calculation
+* Odometry for Position Tracking
 
-* Speed Estimator
-
+* Speed Estimation
